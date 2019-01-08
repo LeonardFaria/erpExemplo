@@ -1,0 +1,13 @@
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\bin\Debug\EstoqueMoveisG2.exe.config
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\bin\Debug\EstoqueMoveisG2.exe
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\bin\Debug\EstoqueMoveisG2.pdb
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.Form1.resources
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.Properties.Resources.resources
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.csproj.GenerateResource.cache
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.exe
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.pdb
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.Forms.frmVisualizarProdutos.resources
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\EstoqueMoveisG2.Forms.frmAdicionarProduto.resources
+C:\Users\Desenvolvimento\source\repos\EstoqueMoveisG2\EstoqueMoveisG2\obj\Debug\SistemaMoveisG2.FrmTabelaMedidas.resources
